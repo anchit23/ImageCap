@@ -16,4 +16,5 @@
 		Aim is to train the RNN to produce the next word of the sentence based on the previous word. Words are converted to tokens.
 		Then the embedding layer transforms each word in a caption into a vector of a desired consistent shape.
 
-![Alt text](https://github.com/anchit23/ImageCap/blob/master/ss.png "My Image as a test Image ")
+## My Test Image 
+![alt text](https://github.com/anchit23/ImageCap/blob/master/ss.png)
